@@ -1,0 +1,68 @@
+-Tema de parcurs     
+
+1. Se considera fisierul employee.py. Atasat.	 
+Creați o clasă care va moșteni clasa Employee – clasa Manager. 
+
+Numarul de obiecte create din clasa Manger va fi păstrat în variabila de clasă mgr_count  
+
+Constructorul clasei va avea argumentele: name, salary, tasks si department 
+
+La departament veti prefixa numele echipei voastre de la disciplina 
+
+Dacă X%4==0 În clasa Manager, modificați metoda ‘display_employee’ a.î. să afișeze doar salariul angajatului. 
+
+Dacă X%4==1 În clasa Manager, modificați metoda ‘display_employee’ a.î. să afișeze doar numele angajatului. 
+
+Dacă X%4==2 În clasa Manager, modificați metoda ‘display_employee’ a.î. să afișeze doar departamentul. 
+
+Dacă X%4==3 În clasa Manager, modificați metoda ‘display_employee’ a.î. să afișeze doar numele taskurilor. 
+
+Creați Y/3 obiecte ale clasei Manager. Apelați metoda ‘display_employee’ pentru toate obiectele din clasa Manager și pentru obiectele din clasa Employee. 
+
+Afișați valoarea atributului emp_count pentru o instanță a clasei Employee și pentru una a clasei Manager. 
+
+ 
+
+2. Se considera fisierul data.csv atasat. 
+
+Sa se importe valorile din fisier si sa se ploteze (si afiseze grafic) 
+
+* toate valorile 
+
+* primele X valori 
+
+* ultimele Y valori pentru coloanele Durata si Puls. 
+
+Hint:  folositi pandas pentru interactiunea cu fisierul csv si selectia de date pentru diagrame, apoi matplotlib.pyplot pentru afisare. 
+
+Referinte: 
+
+https://www.w3schools.com/python/pandas/default.asp 
+
+https://www.w3schools.com/python/matplotlib_intro.asp  
+
+calp.python.extras de la Files > Class.Materials 
+
+https://code.visualstudio.com/docs/python/tutorial-flask 
+
+https://github.com/microsoft/python-sample-vscode-flask-tutorial  
+
+gui_web_cu_flask 
+
+https://github.com/crchende/ppyan2  
+
+https://code.visualstudio.com/docs/python/tutorial-django  
+
+https://www.w3schools.com/django/index.php  
+
+https://code.visualstudio.com/docs/python/testing 
+
+https://www.tutorialspoint.com/pytest/index.htm  
+
+ 
+
+X = numarul de litere din (toate) prenumele studentului (inclusiv cratime)  
+
+Y = numarul de litere din numele studentului 
+
+ 
